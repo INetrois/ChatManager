@@ -1,0 +1,6 @@
+me/degchan/chatManager/ConfigManager.class
+me/degchan/chatManager/ChatUtil.class
+me/degchan/chatManager/ChatCommandCompleter.class
+me/degchan/chatManager/ChatManager.class
+me/degchan/chatManager/ChatListener.class
+me/degchan/chatManager/ChatCommand.class

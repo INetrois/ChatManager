@@ -1,0 +1,15 @@
+chat:
+  channels:
+    local:
+      distance: 250
+      symbol: "ʟ"
+      color: "&a"
+
+    global:
+      prefix: "!"
+      symbol: "ɢ"
+      color: "&6"
+
+  format:
+    local:  "&7{symbol} &7| &f{prefix}&x&3&1&b&9&f&7{player}&f{suffix} &7» &x&C&E&F&F&B&8{message}"
+    global: "&7{symbol} &7| &f{prefix}&x&3&1&b&9&f&7{player}&f{suffix} &7» &f{message}"

@@ -1,0 +1,34 @@
+name: ChatManager
+version: "1.0"
+main: me.degchan.chatManager.ChatManager
+api-version: "1.21"
+
+author: Degchan
+description: Advanced chat manager with LuckPerms and Vault support
+
+depend:
+  - Vault
+  - LuckPerms
+
+commands:
+  chat:
+    description: Command to view information and reload the chat
+    usage: "/chat"
+    permission: chat.info
+    permission-message: "§8[§e§l⚡§8] §7You do not have permission to execute this command!"
+
+permissions:
+  chat.*:
+    description: Grants access to all plugin commands
+    default: op
+    children:
+      chat.reload: true
+      chat.info: true
+
+  chat.reload:
+    description: Allows reloading the configuration
+    default: op
+
+  chat.info:
+    description: Allows viewing chat information
+    default: true
