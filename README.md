@@ -4,19 +4,20 @@
 
 <p align="center">
   <a href="https://github.com/INetrois/ChatManager/stargazers">
-    <img src="https://img.shields.io/github/stars/INetrois/ChatManager?colorA=0f172a&colorB=eed49f&style=for-the-badge" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/INetrois/ChatManager?colorA=363a4f&colorB=eed49f&style=for-the-badge" alt="Stars"/>
   </a>
   <a href="https://github.com/INetrois/ChatManager/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/INetrois/ChatManager?colorA=0f172a&colorB=eed49f&style=for-the-badge" alt="Contributors"/>
+    <img src="https://img.shields.io/github/contributors/INetrois/ChatManager?colorA=363a4f&colorB=eed49f&style=for-the-badge" alt="Contributors"/>
   </a>
   <a href="https://github.com/INetrois/ChatManager/actions/workflows/AutoCompilePlugin.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/INetrois/ChatManager/AutoCompilePlugin.yml?colorA=0f172a&colorB=eed49f&style=for-the-badge" alt="Build Status"/>
-  </a>
-  <a href="https://github.com/INetrois/ChatManager/releases">
-    <img src="https://img.shields.io/github/v/release/INetrois/ChatManager?colorA=0f172a&colorB=eed49f&style=for-the-badge" alt="Release"/>
+    <img src="https://img.shields.io/github/actions/workflow/status/INetrois/ChatManager/AutoCompilePlugin.yml?colorA=363a4f&colorB=eed49f&style=for-the-badge" alt="Build Status"/>
   </a>
   <a href="https://github.com/INetrois/ChatManager/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/INetrois/ChatManager?colorA=0f172a&colorB=eed49f&style=for-the-badge" alt="License"/>
+    <img src="https://img.shields.io/github/license/INetrois/ChatManager?colorA=363a4f&colorB=eed49f&style=for-the-badge" alt="License"/>
+  </a>
+<br>
+  <a href="https://github.com/INetrois/ChatManager/releases">
+    <img src="https://img.shields.io/github/v/release/INetrois/ChatManager?colorA=363a4f&colorB=eed49f&style=for-the-badge" alt="Release"/>
   </a>
 </p>
 
