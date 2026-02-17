@@ -15,10 +15,6 @@
   <a href="https://github.com/INetrois/ChatManager/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/INetrois/ChatManager?colorA=363a4f&colorB=eed49f&style=for-the-badge" alt="License"/>
   </a>
-<br>
-  <a href="https://github.com/INetrois/ChatManager/releases">
-    <img src="https://img.shields.io/github/v/release/INetrois/ChatManager?colorA=363a4f&colorB=eed49f&style=for-the-badge" alt="Release"/>
-  </a>
 </p>
 
 ---
