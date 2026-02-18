@@ -55,7 +55,7 @@
 ![commands-chat-info](.github/assets/commands/not-enough-arguments.png)
 > `/chat <no arguments>` – executed when there are not enough arguments
 
-![commands-chat-info](.github/assets/commands/chat-info.png)
+![unknown argument](.github/assets/commands/unknown-argument.png)
 > `/chat <unknown argument>` – executed when an unknown argument is entered
 
 ---
